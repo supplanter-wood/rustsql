@@ -1,0 +1,12 @@
+/Users/jameswood/Desktop/rustsql/target/rls/debug/deps/uuid-cecd1ac66cd94182.rmeta: /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs
+
+/Users/jameswood/Desktop/rustsql/target/rls/debug/deps/uuid-cecd1ac66cd94182.d: /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs /Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs
+
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/lib.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/mod.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/builder/error.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/error.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/mod.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/parser/error.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/prelude.rs:
+/Users/jameswood/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-0.8.2/src/adapter/mod.rs:
