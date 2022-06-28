@@ -1,0 +1,12 @@
+/Users/james/Desktop/GitHub/rust-backend/rustsql/target/debug/deps/subprocess-030c0f0d1c9e14d9.rmeta: /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/lib.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/builder.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/communicate.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/popen.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/posix.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/os_common.rs
+
+/Users/james/Desktop/GitHub/rust-backend/rustsql/target/debug/deps/libsubprocess-030c0f0d1c9e14d9.rlib: /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/lib.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/builder.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/communicate.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/popen.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/posix.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/os_common.rs
+
+/Users/james/Desktop/GitHub/rust-backend/rustsql/target/debug/deps/subprocess-030c0f0d1c9e14d9.d: /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/lib.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/builder.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/communicate.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/popen.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/posix.rs /Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/os_common.rs
+
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/lib.rs:
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/builder.rs:
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/communicate.rs:
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/popen.rs:
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/posix.rs:
+/Users/james/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.8/src/os_common.rs:
